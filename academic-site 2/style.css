@@ -149,6 +149,7 @@ em {
   align-items: center;
   justify-content: center;
   box-shadow: 0 6px 18px rgba(179, 27, 27, 0.25);
+  object-fit: cover;   /*
 }
 
 .hero-text h1 {
